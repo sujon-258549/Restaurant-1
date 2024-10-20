@@ -2,12 +2,45 @@ import React from 'react'
 import Heading from '../Common/Hading'
 import Link from 'next/link'
 import Button from '../Common/Button'
+// import RotatingText from '../Scorl/RotatingText'
 
 
 const Banner = () => {
     return (
         <div>
             <section className='max-w-6xl mx-auto px-5'>
+
+
+
+{/* <RotatingText></RotatingText> */}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 <div className="">
                     <div className="items-center lg:flex">
                         <div className="w-full lg:w-1/3">
